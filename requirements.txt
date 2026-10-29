@@ -9,7 +9,11 @@ openpyxl==3.1.5
 packaging==26.3
 pandas==3.1.0
 pillow==13.0.0
+PyMySQL==1.2.3
 pyparsing==3.3.3
 python-dateutil==3.0.0
+python-dotenv==1.2.4
 six==1.17.0
+SQLAlchemy==2.1.6
+typing_extensions==4.16.0
 tzdata==2026.6
