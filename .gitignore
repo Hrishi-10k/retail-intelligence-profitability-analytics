@@ -224,3 +224,17 @@ __marimo__/
 
 
 data/raw/
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Credentials
+.env
+
+# Raw source data
+data/raw/
+*.xlsx
+
+# Large processed data
+data/processed/retail_transactions_cleaned.csv

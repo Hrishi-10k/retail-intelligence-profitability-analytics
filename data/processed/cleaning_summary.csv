@@ -1,0 +1,13 @@
+Metric,Value
+Rows in source dataset,541909
+Rows in output dataset,541909
+Exact duplicate occurrences beyond first copies,5268
+Rows belonging to exact duplicate groups,10147
+Rows missing CustomerID,135080
+Rows missing Description,1454
+Invalid invoice dates,0
+Invalid quantities,0
+Invalid unit prices,0
+Cancellation invoices,9288
+Rows with quantity <= 0,10624
+Rows with unit price <= 0,2517

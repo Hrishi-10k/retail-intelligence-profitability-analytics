@@ -1,0 +1,10 @@
+Metric,Value
+Total rows,541909
+Total columns,8
+Exact duplicate rows,5268
+Rows with missing CustomerID,135080
+Rows with missing Description,1454
+Invalid invoice dates,0
+Rows with quantity <= 0,10624
+Rows with unit price <= 0,2517
+Invoices marked as cancellations,9288
